@@ -2,7 +2,7 @@
 
 **Cybersecurity Student | Cyber Defense, Network Security, and AI Security**
 
-**[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)** | **[Email](mailto:a.alkhoudeir@my.ccsu.edu)**
+**[LinkedIn](https://www.linkedin.com/in/ahmad-a-k-67304131b/)** | **[Email](mailto:a.alkhoudeir@my.ccsu.edu)**
 
 *I'm a cybersecurity student at Central Connecticut State University, working toward a B.S. in Cybersecurity with a Cyber Defense concentration and a minor in AI and Robotics (graduating Spring 2028). Most of what I build sits where network security, compliance, and AI overlap. I'm aiming for a career in government cybersecurity and AI security engineering, so a lot of my current work is about tools that can run offline and hold up to real compliance standards.*
 
