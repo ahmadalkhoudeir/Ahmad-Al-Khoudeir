@@ -37,6 +37,6 @@ Frameworks I've worked with hands-on include NIST CSF 2.0 and NIST SP 800-37 (Ri
 
 ## Beyond the Code
 
-- I programmed and designed **Dynamic Decor Painting & Home Services LLC**, a website for Connecticut painting and home improvement contractorl. URL: https://dynamicdecorpainting.com/
+- I built a website for **Dynamic Decor Painting & Home Services LLC** a Connecticut painting and home improvement contractor. URL: https://dynamicdecorpainting.com/
 - I worked as an Arabic–English interpreter with **IRIS (Integrated Refugee & Immigrant Services)**.
 - I volunteered as a Judge at the VEX IQ Championship, evaluating robotics teams through technical interviews, engineering notebook reviews, and rubric-based scoring. Contributed to fair award selection while promoting STEM education and student innovation.
