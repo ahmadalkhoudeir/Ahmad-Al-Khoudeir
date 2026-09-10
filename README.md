@@ -17,7 +17,7 @@ Max-Guard is a network security scanner that checks retail networks against PCI-
 - **[Max-Guard Repository](https://github.com/ahmadalkhoudeir/maxguard)** - Python 3.11, Scapy for packet capture, GPT-4o-mini for threat analysis, and a Streamlit dashboard with Plotly charts. Reports export as JSON, CSV, or an executive summary, and the app ships with Docker support.
 - **[Live Demo](https://maxguard.streamlit.app)** - The cloud version runs on Streamlit Cloud and works from uploaded scan results, since live capture needs local admin privileges.
 - **Lab Testing** - I tested the scanner in a VMware lab with three Ubuntu 22.04 VMs (a scanner, a POS terminal, and a database server) and confirmed it caught real cleartext violations over HTTP, Telnet, and FTP.
-- **[Rebuild Application Form](https://github.com/ahmadalkhoudeir/maxguard-student-interest-form)** - I'm now rebuilding Max-Guard to replace the external AI API with locally hosted models (Ollama and llama.cpp) so it can run in offline and air-gapped environments. This form is how CCSU students can apply to join the new team.
+- **[Rebuild Application Form](https://github.com/ahmadalkhoudeir/maxguard-student-interest-form)** - We are now rebuilding Max-Guard to replace the external AI API with locally hosted models (Ollama and llama.cpp) so it can run in offline and air-gapped environments. This form is how CCSU students can apply to join the new team.
 
 ## In Progress
 
@@ -37,6 +37,6 @@ Frameworks I've worked with hands-on include NIST CSF 2.0 and NIST SP 800-37 (Ri
 
 ## Beyond the Code
 
-- I run **Dynamic Decor Painting & Home Services LLC**, a Connecticut painting and home improvement contractor, alongside school.
-- I volunteer as an Arabic–English interpreter with **IRIS (Integrated Refugee & Immigrant Services)**.
-- My work background includes loss prevention at Burlington Stores and maintenance at Brookdale Senior Living.
+- I programmed and designed **Dynamic Decor Painting & Home Services LLC**, a website for Connecticut painting and home improvement contractorl. URL: https://dynamicdecorpainting.com/
+- I worked as an Arabic–English interpreter with **IRIS (Integrated Refugee & Immigrant Services)**.
+- I volunteered as a Judge at the VEX IQ Championship, evaluating robotics teams through technical interviews, engineering notebook reviews, and rubric-based scoring. Contributed to fair award selection while promoting STEM education and student innovation.
