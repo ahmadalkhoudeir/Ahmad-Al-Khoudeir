@@ -38,5 +38,10 @@ Frameworks I've worked with hands-on include NIST CSF 2.0 and NIST SP 800-37 (Ri
 ## Beyond the Code
 
 - I built a website for **Dynamic Decor Painting & Home Services LLC** a Connecticut painting and home improvement contractor. URL: https://dynamicdecorpainting.com/
+- I currently work as a Maintenance Tech for Brookdale, where my job includes
+  -Performed preventive and corrective maintenance on mechanical, electrical, and facility systems
+  -Diagnosed and repaired equipment issues to minimize downtime
+  -Interpreted technical manuals, blueprints, and schematics
+  -Maintained service logs and ensured OSHA safety compliance
 - I worked as an Arabic–English interpreter with **IRIS (Integrated Refugee & Immigrant Services)**.
 - I volunteered as a Judge at the VEX IQ Championship, evaluating robotics teams through technical interviews, engineering notebook reviews, and rubric-based scoring. Contributed to fair award selection while promoting STEM education and student innovation.
